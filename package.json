@@ -1,0 +1,16 @@
+{
+  "name": "academia-sep",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Academia SEP - Simulador para o teste do Icolo e Bengo",
+  "scripts": {
+    "build": "echo Web app pronta em www"
+  },
+  "dependencies": {
+    "@capacitor/core": "latest"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "latest",
+    "@capacitor/android": "latest"
+  }
+}
