@@ -1,5 +1,5 @@
-      - name: Verificar Node.js
-        run: |
+- name: Verificar Node.js
+  run: 
           node -v
           npm -v
           which node
