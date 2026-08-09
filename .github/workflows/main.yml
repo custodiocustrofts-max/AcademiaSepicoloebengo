@@ -1,3 +1,9 @@
+      - name: Verificar Node.js
+        run: |
+          node -v
+          npm -v
+          which node
+          
 name: Construir APK Academia SEP
 
 on:
